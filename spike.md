@@ -8,3 +8,7 @@ https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-
 
 https://docs.gitlab.com/ee/user/project/merge_requests/methods
 
+## Git
+
+https://git-scm.com/docs/git-merge
+
